@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects that affects Pacific Island Countries...
+- 📝 I'm currently studying in National University of Vanuatu
 - 📫 How to reach me is through my email address:g.tauanearu@gmail.com my phone number is +678 7774474 and +678 5934729
 
 <!---
